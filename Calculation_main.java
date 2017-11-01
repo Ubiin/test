@@ -5,7 +5,7 @@ public class Calculation_main {
 		// TODO Auto-generated method stub
 		float x,y;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("뺄셈할 숫자 두개를 아주 빠르게 입력하세요.");
+		System.out.println("뺄셈할 숫자 두개를 아주 빠르게 그 누구보다 빠르게 입력하세요.");
 		x = scan.nextFloat();
 		y = scan.nextFloat();
 		Sub_cal sub = new Sub_cal(x,y);
