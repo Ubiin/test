@@ -1,3 +1,5 @@
+package yubin;
+
 public class Sub_cal {
 	float ans=0;
 	float x,y;
