@@ -6,7 +6,7 @@ public class Calculation_main {
 		// TODO Auto-generated method stub
 		float x,y;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("»¬¼ÀÀ» ÇÒ µÎ ¼ö ÀÔ·Â.");
+		System.out.println("ëº„ì…ˆì„ í•  ë‘ ìˆ˜ ì…ë ¥.");
 		x = scan.nextFloat();
 		y = scan.nextFloat();
 		Sub_cal sub = new Sub_cal(x,y);
@@ -16,3 +16,6 @@ public class Calculation_main {
 	}
 
 }
+
+
+
