@@ -6,7 +6,7 @@ public class Calculation_main {
 		// TODO Auto-generated method stub
 		float x,y;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("뺄셈을 할 두 수를 입력하세요.");
+		System.out.println("뺄셈을 할 두 수 입력.");
 		x = scan.nextFloat();
 		y = scan.nextFloat();
 		Sub_cal sub = new Sub_cal(x,y);
