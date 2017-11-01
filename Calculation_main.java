@@ -1,4 +1,3 @@
-package yubin;
 import java.util.*;
 
 public class Calculation_main {
@@ -6,7 +5,7 @@ public class Calculation_main {
 		// TODO Auto-generated method stub
 		float x,y;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("»¬¼ÀÀ» ÇÒ µÎ ¼ö ÀÔ·Â.");
+		System.out.println("ëº„ì…ˆí•  ìˆ«ì ë‘ê°œë¥¼ ì•„ì£¼ ë¹ ë¥´ê²Œ ì…ë ¥í•˜ì„¸ìš”.");
 		x = scan.nextFloat();
 		y = scan.nextFloat();
 		Sub_cal sub = new Sub_cal(x,y);
